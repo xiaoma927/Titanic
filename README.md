@@ -1,2 +1,1 @@
-# LinearRegression
-一个关于sklearn里面的数据集diabetes的线性回归模型
+基于Titanic 训练数据集，来进行的数据分析与预测
